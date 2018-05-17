@@ -1,0 +1,24 @@
+{
+    "remotePath": "./rolling_update",
+    "host": "34.240.191.99",
+    "username": "user",
+    "password": "kisjer12",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": "C:/dev/ssh/id_rsa.ppk",
+    "passphrase": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "uploadOnSave": false,
+        "extensionsToInclude": [],
+        "path": ""
+    }
+}
