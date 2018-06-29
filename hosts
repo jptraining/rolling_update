@@ -1,9 +1,12 @@
 [webservers]
-172.31.106.138    #ansible_host=jpenekusu2.mylabserver.com
-172.31.104.245    #ansible_host=jpenekusu3.mylabserver.com
+jpenekusu2.mylabserver.com
+jpenekusu3.mylabserver.com
+
 [dbservers]
-172.31.106.138     #ansible_host=jpenekusu2.mylabserver.com
+jpenekusu4.mylabserver.com
+
 [lbservers]
-172.31.16.18     #ansible_host=jpenekusu5.mylabserver.com
+jpenekusu5.mylabserver.com
+
 [monitoring]
-172.31.16.18  #ansible_host=jpenekusu5.mylabserver.com
+jpenekusu1.mylabserver.com
